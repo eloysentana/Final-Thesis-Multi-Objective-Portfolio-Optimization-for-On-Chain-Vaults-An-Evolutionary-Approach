@@ -1,6 +1,6 @@
-# Many-Objective Portfolio Optimization over On-Chain Trading Vaults: An Evolutionary Approach
+# Multi-Objective Portfolio Optimization over On-Chain Trading Vaults: An Evolutionary Approach
 
-**[Read the thesis (PDF)](Many-Objective%20Portfolio%20Optimization%20over%20On-Chain%20Trading%20Vaults%20An%20Evolutionary%20Approach.pdf)**
+**[Read the thesis (PDF)](Multi-Objective%20Portfolio%20Optimization%20over%20On-Chain%20Trading%20Vaults%20An%20Evolutionary%20Approach.pdf)**
 
 Given thousands of **vaults** (opaque trading strategies on a blockchain exchange,
 where all you see is a daily return series), which ones do you invest in, and how much
