@@ -64,7 +64,11 @@ analysis was run on lookback/investment window length.
 
 ## Author
 
-Eloy Sentana Seguí
+Eloy Sentana Seguí.
+
+## Grading
+
+This thesis received a 10/10 and was proposed for Honours (pending ratification) by Universidad Carlos III de Madrid, Spain.
 
 ## License
 
